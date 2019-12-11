@@ -2,7 +2,7 @@ package com;
 
 public class MyDemo {
 	public static void main(String[] args) {
-		System.out.println("ÕâÊÇÒ»¸ö¸Ä±äµÄÉñÆæµÄ´úÂë");
+		System.out.println("è¿™æ˜¯ä¸€ä¸ª");
 	}
 
 }
